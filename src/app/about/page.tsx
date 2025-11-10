@@ -178,10 +178,10 @@ export default function AboutPage() {
       {/* Join Us */}
       <section className="section-spacing bg-[hsl(var(--primary))] text-white">
         <div className="container-custom text-center">
-          <h2 className="text-4xl font-bold mb-6 text-white">
+          <h2 className="text-4xl font-bold mb-6 text-light">
             Be Part of the Movement
           </h2>
-          <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
+          <p className="text-xl mb-8 text-light-secondary max-w-2xl mx-auto">
             Whether you're a customer, supplier partner, or community member, there's a place for you
             in the BLOC Food family
           </p>

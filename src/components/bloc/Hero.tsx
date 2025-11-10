@@ -31,10 +31,10 @@ export default function Hero({
       }}
     >
       <div className="container-custom relative z-10">
-        <h1 className="text-white text-5xl md:text-6xl font-bold uppercase tracking-tight mb-4">
+        <h1 className="text-light text-5xl md:text-6xl font-bold uppercase tracking-tight mb-4">
           {title}
         </h1>
-        <p className="text-white/90 text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
+        <p className="text-light-secondary text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
           {subtitle}
         </p>
         {(ctaPrimary || ctaSecondary) && (

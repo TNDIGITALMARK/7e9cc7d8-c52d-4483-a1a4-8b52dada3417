@@ -360,6 +360,19 @@ button {
   padding: 0 2rem;
 }
 
+/* Light text utilities for hero sections, CTAs, and footer */
+.text-light {
+  color: rgba(255, 255, 255, 0.95) !important;
+}
+
+.text-light-secondary {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.text-light-muted {
+  color: rgba(255, 255, 255, 0.70) !important;
+}
+
 /* Enhanced shadow system */
 .shadow-sm {
   box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);

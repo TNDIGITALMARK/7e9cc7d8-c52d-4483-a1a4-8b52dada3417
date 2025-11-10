@@ -318,10 +318,10 @@ export default function CateringPage() {
       {/* Call to Action */}
       <section className="section-spacing bg-[hsl(var(--primary))] text-white">
         <div className="container-custom text-center">
-          <h2 className="text-4xl font-bold mb-6 text-white">
+          <h2 className="text-4xl font-bold mb-6 text-light">
             Questions About Catering?
           </h2>
-          <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
+          <p className="text-xl mb-8 text-light-secondary max-w-2xl mx-auto">
             Our catering team is here to help you plan the perfect culturally meaningful event
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

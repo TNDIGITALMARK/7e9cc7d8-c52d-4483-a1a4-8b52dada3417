@@ -235,10 +235,10 @@ export default function ImpactPage() {
       {/* Call to Action */}
       <section className="section-spacing bg-[hsl(var(--primary))] text-white">
         <div className="container-custom text-center">
-          <h2 className="text-4xl font-bold mb-6 text-white">
+          <h2 className="text-4xl font-bold mb-6 text-light">
             Join the Movement
           </h2>
-          <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
+          <p className="text-xl mb-8 text-light-secondary max-w-2xl mx-auto">
             Every meal you enjoy with BLOC Food creates positive ripple effects throughout the community
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
