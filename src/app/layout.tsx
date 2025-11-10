@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "BLOC Food - Where Heritage Meets Modern Cuisine",
+  description: "Culturally inspired food company blending Black and Native American traditions with modern innovation. Soul food, heritage meals, and community impact.",
 };
 
 export default function RootLayout({
